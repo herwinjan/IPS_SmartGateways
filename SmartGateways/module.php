@@ -8,7 +8,7 @@
  * @version       1.1
  *
  */
-class SmartGateways extends IPSModule
+class IPSSmartGateways extends IPSModule
 {
 
     private function __CreateVariable($Name, $Type, $Value, $Ident = '', $ParentID = 0)
