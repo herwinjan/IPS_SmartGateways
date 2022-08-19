@@ -4,7 +4,7 @@
     "type": 3,
     "vendor": "HJS",
     "aliases": [
-        "SmartGateways",
+        "SmartGateways"
     ],
     "parentRequirements": [
         "{79827379-F36E-4ADA-8A95-5F8D1DC92FA9}"
